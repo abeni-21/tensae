@@ -1,3 +1,3 @@
-# about hello world in 
-## student information
+# About Hello World  
+## Student Information
 -  **Name**: Tensay
